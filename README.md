@@ -1,3 +1,8 @@
+![Alt Text](https://github.com/Peszko1337/feedmail-master/blob/main/test%20strony.png)
+![Alt Text](https://github.com/Peszko1337/feedmail-master/blob/main/post%20v1%20user.png)
+![Alt Text](https://github.com/Peszko1337/feedmail-master/blob/main/get%20v1%20user.png)
+![Alt Text](https://github.com/Peszko1337/feedmail-master/blob/main/get%20v1%20mail.png)
+![Alt Text](https://github.com/Peszko1337/feedmail-master/blob/main/post%20v1%20mail.png)
 # Feedmail
 
 WebApp wrote in node js and vanilla js for sending rss via email
